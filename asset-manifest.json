@@ -1,24 +1,24 @@
 {
   "files": {
     "main.css": "/my-protofilo/static/css/main.cbaff75b.css",
-    "main.js": "/my-protofilo/static/js/main.ac85ec9c.js",
-    "static/media/Paralex.png": "/my-protofilo/static/media/Paralex.099a83e4e36ea5ee6e3f.png",
-    "static/media/Movies.png": "/my-protofilo/static/media/Movies.df247f2ca43517e7c5c5.png",
+    "main.js": "/my-protofilo/static/js/main.8e6bcf0b.js",
+    "static/media/trivaeg.png": "/my-protofilo/static/media/trivaeg.0a5b98802ace5d849b12.png",
+    "static/media/egiptotours.png": "/my-protofilo/static/media/egiptotours.9bb76c9e8d1fae5c38ee.png",
     "static/media/Games.png": "/my-protofilo/static/media/Games.06a3a7c63330377da31c.png",
     "static/media/University.png": "/my-protofilo/static/media/University.2fd08adbbfdf5e7928a2.png",
     "static/media/Wooster.png": "/my-protofilo/static/media/Wooster.88c2ba53afb0a9f2bc0b.png",
+    "static/media/Khaled .pdf": "/my-protofilo/static/media/Khaled .d668bd2b746dd46f73a6.pdf",
     "static/media/amit.png": "/my-protofilo/static/media/amit.1337cfcebf56a757cbbb.png",
     "static/media/Education.png": "/my-protofilo/static/media/Education.cb52ff134e361a85154d.png",
     "static/media/course.png": "/my-protofilo/static/media/course.d5c89538d24e198d7384.png",
     "static/media/Ella.png": "/my-protofilo/static/media/Ella.45477aa2ec1b1f2a2b30.png",
-    "static/media/CV.pdf": "/my-protofilo/static/media/CV.d3d04bdb7aa16dead907.pdf",
     "static/media/portfolio3.jpg": "/my-protofilo/static/media/portfolio3.b8cadb4e69e6fd0453da.jpg",
     "index.html": "/my-protofilo/index.html",
     "main.cbaff75b.css.map": "/my-protofilo/static/css/main.cbaff75b.css.map",
-    "main.ac85ec9c.js.map": "/my-protofilo/static/js/main.ac85ec9c.js.map"
+    "main.8e6bcf0b.js.map": "/my-protofilo/static/js/main.8e6bcf0b.js.map"
   },
   "entrypoints": [
     "static/css/main.cbaff75b.css",
-    "static/js/main.ac85ec9c.js"
+    "static/js/main.8e6bcf0b.js"
   ]
 }
